@@ -67,3 +67,12 @@ footer p {
   margin-bottom: 100px;
 }
 /* Write all remaining styles here */
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    height: 0;
+    line-height: 0;
+}
