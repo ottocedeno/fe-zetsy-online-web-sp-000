@@ -5,7 +5,7 @@
 /*////////// Global Styles //////////*/
 * {
   border: 1px solid red;
-  box-sizing: border-box;
+  box-sizing: content-box;
 }
 
 body {
